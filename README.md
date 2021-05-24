@@ -2,6 +2,7 @@
 
 GitHub Repository Link: https://github.com/WitnessMyHands/Employee-Tracker
 
+Employee Tracker Video:
 [YouTube Video Link](https://www.youtube.com/watch?v=dtFKt8IqDTY)
 
 ## Table of Contents
