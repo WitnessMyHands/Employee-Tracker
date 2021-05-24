@@ -13,7 +13,7 @@ Employee Tracker Video:
 
 ## Information
 
-The idea behind this Employee Tracker is develop a 'Command-Line Application' that allows Employers to ADD, REMOVE, UPDATE and overall Manage the Departments, Roles and Employees in the company.
+The Employee Tracker is a management system, allowing employers to use the 'Command-Line Application' to ADD, REMOVE, UPDATE and overall Manage the Departments, Roles and Employees in the company.
 
 Using Node, Inquirer and MySQL, the user is able to call and retrieve information from the created database.
 
