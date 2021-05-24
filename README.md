@@ -42,6 +42,7 @@ Within your coding software, such as VS Code:
 * Create a ' .js ' file such as ' server.js ' to utilize
 
 For organization purposes, individual folders for the SQL files can be saved as such:
+
 ![Folder Organization Example (SQL)](./sql-example.jpg)
 
 ## Questions
